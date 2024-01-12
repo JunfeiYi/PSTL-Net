@@ -55,6 +55,18 @@ If you have any questions, please new an [issue](https://github.com/JunfeiYi/PST
 
 Please **Star** this project and **Cite** this paper if its helpful to you .
 
+  ```bash
+  @ARTICLE{10375333,
+  author={Yi, Junfei and Mao, Jianxu and Zhang, Hui and Zeng, Kai and Tao, Ziming and Zhong, Hang and Wang, Shaoyuan and Wang, Yaonan},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={PSTL-Net: A Patchwise Self-Texture-Learning Network for Transmission Line Inspection}, 
+  year={2024},
+  volume={73},
+  number={},
+  pages={1-14},
+  doi={10.1109/TIM.2023.3341118}}
+  ```
+
 
 # License
 THe PSTL-Net is freely available for non-commercial use, and may be redistributed under these conditions. 

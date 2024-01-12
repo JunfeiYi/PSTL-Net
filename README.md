@@ -24,11 +24,8 @@ For `PSTL-Net`, the [mmdetection](https://github.com/open-mmlab/mmdetection) is 
     pip install -r requirements.txt  # install dependencies
     python setup.py develop
     ```
-2. ## Download Datasets and Trained Weights
+2. ## Prepare Datasets and Trained Weights
 
-   TLI Datasetes:
-   
-   Baidu Disk: https://pan.baidu.com/s/1zOEMxVfiJsq742_hitTjkA, Password: uj9c
    Trained Weights:
    
    Baidu Disk: https://pan.baidu.com/s/108Ez-u4HdZQHsLCZOqUiog, Password: 7rrd 
@@ -60,7 +57,7 @@ Please **Star** this project and **Cite** this paper if its helpful to you .
 
 
 # License
-THe PSTL-Net and it's datasets (TLI Datasets) is freely available for non-commercial use, and may be redistributed under these conditions. 
+THe PSTL-Net is freely available for non-commercial use, and may be redistributed under these conditions. 
 For commercial queries, please drop an e-mail to yijunfei@hnu.edu.cn, we will send the detail agreement to you.
 
 
